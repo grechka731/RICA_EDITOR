@@ -4,3 +4,6 @@
 [submodule "src/lib/rlImGui"]
 	path = src/lib/rlImGui
 	url = https://github.com/raylib-extras/rlImGui
+[submodule "src/lib/RICA"]
+	path = src/lib/RICA
+	url = https://github.com/grechka731/RICA

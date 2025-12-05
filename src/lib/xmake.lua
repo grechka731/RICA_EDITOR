@@ -26,3 +26,5 @@ target("rlImGui")
     add_packages("raylib")
     add_deps("imgui")
 target_end()
+
+includes("RICA")

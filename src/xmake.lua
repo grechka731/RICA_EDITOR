@@ -6,5 +6,5 @@ target("RICA_App")
     add_files("main.cpp")
 
     add_deps("imgui", "rlImGui")
-    add_packages("raylib", "rapidjson") 
+    add_packages("raylib", "rapidjson", "RICA") 
 target_end()
