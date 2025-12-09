@@ -4,3 +4,6 @@
 [submodule "src/lib/imgui"]
 	path = src/lib/imgui
 	url = https://github.com/ocornut/imgui
+[submodule "src/lib/RICA"]
+	path = src/lib/RICA
+	url = https://github.com/grechka731/RICA
